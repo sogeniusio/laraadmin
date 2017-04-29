@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 /vendor
 /node_modules
 /public/storage
 Homestead.yaml
 Homestead.json
 .env
+=======
+src/Installs/resources/views/welcome.blade.php
+>>>>>>> b677da4334f1ff6d3c0312987221b57287a6b7c9
